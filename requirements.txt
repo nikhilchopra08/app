@@ -1,0 +1,14 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+google-generativeai
+huggingface_hub
+newspaper4k
+lxml_html_clean
+streamlit
